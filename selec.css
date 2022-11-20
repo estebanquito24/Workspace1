@@ -1,0 +1,76 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@300&display=swap');
+    * {
+       
+        box-sizing: border-box;
+        margin: 0%;
+        padding: 0%;
+    }
+    
+    header{
+
+        display:flex ;
+        padding: 30px , 10% ;
+        justify-content: space-between;
+        align-items: center;
+    }
+    button{
+        padding: 9px,25px;
+      
+        background-color: aqua;
+        font-family: 'Times New Roman', Times, serif;
+        cursor: pointer;
+    }
+    button :hover {
+
+        background-color: azure;
+    }
+
+ 
+
+    
+    
+    div .One 
+    {
+        height: 600px;
+        width: 600px;
+        background-color: blue;
+        justify-content: center;
+        position: relative;
+        align-items: center;
+        display: flex;
+    }
+    img {
+        margin: 5%;
+        width: 250px;
+        height: 250px;
+        box-sizing: border-box;
+        border: 5px solid rgba(255, 255, 255, 0.7);
+        border-radius: 0%;
+        overflow: hidden;
+        box-shadow: 0 5px 15px 0px rgba(187, 36, 36, 0.6);
+        transform: translatey(0px);
+    
+     
+    }
+
+   
+ div .ZERO
+ {
+    height: 350px;
+    width: 200px;
+    background-color: darkorange;
+    text-align: center;
+    margin: 0px;
+    text-decoration: none;
+    display: inline-block;
+    
+
+ }
+ footer {
+
+    margin-top: 100px;
+    padding: 50px;
+    background-size: 100%;
+    background-color:salmon ;
+
+ }
