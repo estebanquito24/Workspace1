@@ -1,0 +1,52 @@
+
+.contenedor  {
+   
+   
+   height: 600px;
+   width: 500px;
+   text-align: center;
+   background-color: green;
+}
+.divpadre {
+  
+    margin:0px auto;
+     
+}
+.divhijo {
+    height:60px;
+    width:400px;
+    
+}
+
+.text1 {
+    color: blue;
+    text-align: center;
+}
+
+.text2 {
+  
+   
+    background-color: white;
+ }
+
+.divpadre1 {
+
+    height:50px;
+    width:500px;
+    margin:0px auto;
+}
+
+.divhijo1 {
+    height:60px;
+    width:400px;
+    
+}
+
+
+.text3 {
+    color: blue;
+    text-align: right;
+}
+.text4 {
+    background-color: gold;
+}
