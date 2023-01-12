@@ -2,38 +2,47 @@
 .contenedor  {
    
    
-   height: 600px;
-   width: 500px;
-   text-align: center;
-   background-color: green;
+
 }
-.divpadre {
+.divpadre  {
   
-    margin:0px auto;
+
      
 }
 .divhijo {
-    height:60px;
-    width:400px;
+  
     
 }
 
-.text1 {
-    color: blue;
+ h1 {
     text-align: center;
+  width: 600px;
+  padding: 10px;
+  margin-left: 300px ;
+}
+.text1 {
+  text-align: center;
+  width: 600px;
+  padding: 10px;
+  margin-left: 300px ;
 }
 
 .text2 {
   
-   
-    background-color: white;
+    height: 100px;
+    width: 600px;
+    padding: 20px;
+  margin-left: 300px ;
+    text-align: center;
+    background-color: yellow;
+
  }
 
 .divpadre1 {
 
     height:50px;
     width:500px;
-    margin:0px auto;
+    margin:2px auto;
 }
 
 .divhijo1 {
@@ -41,12 +50,12 @@
     width:400px;
     
 }
+li {
+    margin-top: 10px ;
+}
+.Footerr {
+
+    height: 1000px;
+}
 
 
-.text3 {
-    color: blue;
-    text-align: right;
-}
-.text4 {
-    background-color: gold;
-}
