@@ -57,7 +57,7 @@
         border: 5px solid red;
         border-radius: 0%;
         overflow: hidden;
-        box-shadow: 0 5px 15px 0px rgba(187, 36, 36, 0.6);
+        box-shadow: 0 5px 15px 0px rgba(199, 31, 31, 0.6);
         transform: translatey(0px);
     
      
@@ -67,7 +67,7 @@
  div .ZERO
  {
     height: 350px;
-    width: 201px;
+    width: 210px;
     background-color: yellow;
     text-align: center;
     margin: 0px;
